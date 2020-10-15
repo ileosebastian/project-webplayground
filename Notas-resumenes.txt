@@ -1,0 +1,89 @@
+
+######################################## LECCION 15
+
+* Muestra lo que vamos a hacer, los puntos.
+
+Hacer una practica, para crear una app: Sobre perfiles puvlicos
+
+* Empieza mostrando un cmd y tal..
+1 voy a la carpeta dsi
+2 voy a django
+	$ activate django
+3 hago un nuevo projecto
+	$ django-admin startproject webplayground\
+
+
+
+######################################## LECCION 16
+* Antes: vistas basadas en funciones
+Ahora vemos las CBV: Vistas basdas en clases
+
+* Sirven como moldes
+* Contiene atributos y metodos
+* Permiten usar Herencia, etc.
+
+	Permite ahorrar tiempo
+	Podemos reutilizarlas y extenderlas
+
+Mediante http://ccbv.co.uk/ nos ayuda a las cbv
+	Encontrar un gran catalogo de autenticacion de usuario
+	Templates
+	Vistas CRUD
+	Etc..
+	Para poder detallar vistas.
+
+# Vamos a pasar de funciones a clases en VIEWS.PY
+
+######################################## LECCION 17
+
+
+######################################## LECCION 18
+
+creacion del superusuario
+Nombre del usuario: Leo
+Dirección de correo electrónico: ileosebastian@gmail.com
+password: hola_webplay
+
+
+En conclusion, es mucho mas sencillo usar una vista basadqa en clase, que de funciones
+
+En ell trsanscurso de otras clases se veran sus demas posibilidades...
+
+
+######################################## LECCION 19
+Vistas CRUD con Vistas Basadas en Clases (CBV): CreateView
+aniadir un TAG llamado include
+	vamos poner un submenu y a crear un contenido
+
+Hacemos una url personalizada
+	pagepatterns
+	tipo tupla
+
+dictsort:"id" reversed
+	ordena el contenido de mas nuevo a mas viejo
+
+
+
+######################################## LECCION 20
+http://ccbv.co.uk/projects/Django/3.0/django.views.generic.edit/UpdateView/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
